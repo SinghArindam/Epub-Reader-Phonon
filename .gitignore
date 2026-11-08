@@ -1,0 +1,5 @@
+# Build artefacts
+.cache/
+reader.standalone.html
+__pycache__/
+*.pyc
